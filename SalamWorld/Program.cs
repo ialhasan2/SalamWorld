@@ -8,7 +8,7 @@ namespace SalamWorld
         {
             // Start ...
             Console.WriteLine("Salam World!");
-            Console.WriteLine("Press any key to continue...");
+            Console.WriteLine("Press any key to exit...");
             Console.ReadKey(true);
         }
     }
